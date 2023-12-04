@@ -82,6 +82,8 @@ public class Calender  implements ActionListener {
             WednesdayDate = Date +2;
             ThursdayDate = Date +3;
             FridayDate = Date +4;
+            SaturdayDate = Date +5;
+            SundayDate = Date +6;
         }
 
         if (Weekday==tuesdayId) {
